@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: powderblue;
   }
@@ -6,4 +7,14 @@ body {
   }
   p {
     color: red;
+=======
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+>>>>>>> 7aa0af62823ee8e8632d473313f871cd235949d1
   }
